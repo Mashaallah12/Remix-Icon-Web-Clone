@@ -1,0 +1,28 @@
+@media (max-width:770px ) {
+    .hide{
+        display: none;
+    }
+    .mid1{
+        width: 90%;
+        height: auto;
+    }
+    .box1{
+        width: 100%;
+    }
+    .icon-box{
+        gap: 0;
+    }
+   
+}
+@media (max-width:495px) {
+    .hide1{
+        display: none;
+    }
+    .footer-right{
+        width: 100%;
+    }
+  .footer-right>ul{
+  justify-content: center;
+  
+  }
+}
